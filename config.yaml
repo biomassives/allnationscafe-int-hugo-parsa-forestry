@@ -1,11 +1,11 @@
 baseURL: /
 languageCode: en-us
-title: Ecocity Lifelong Learning Network
+title: All Nations Cafe International
 
 # Theme settings
 module:
   imports:
-   - path: github.com/themefisher/parsa-hugo
+   - path: github.com/biomassives/allnationscafe-int-hugo-parsa-forestry
      mounts:
      - source: layouts
        target: layouts
@@ -44,21 +44,19 @@ params:
   logo: images/logo.png
   home: Home
   layout: '1'
-  description: ecocity supports the non-violent transformation of modern culture from improving our daily lives to visioning, designing, acting, economically developing, propagating, promoting, and educating the mass markets that non-toxic, economially superior, cooperative approaches to human settlements, transportation, supply routes, energy consumption and generation, loving relationships, and quality locally grown natural food is attainable for a lower cost to each of us due to the cooperative approaches that the internet and networked communications now allows us. viva la ecocity!
+  description: Israeli and Palestinian residents of Jerusalem and environs share physical space on a daily basis, in the supermarket, the gyms, pools, the parks, buses, and health care clinics. However, they rarely interact with any more than a superficial greeting. We believe that a true and lasting peace on the ground is possible only if we deepen our understanding of the “other,” facilitating a move beyond fear of the unknown and into the intimately familiar.
   preloader: true
   search: true
   author: Themefisher
   author_image: images/banner-img.png
   bio: >-
-    I believe in the future we will suffer no more
-    We are here together to figure out the challenges our souls present to us, and apply these lessons to building a better society, as we face the exisential challenges our era.
-    Ecocity Lifelong Learning Network is a platform provided by the US not for profit orfanization, Sustainable Commnity Development Hub.  Ecocity.com and the Ecocommunity that it supports non-violent transformation of modern culture from improving our daily lives to visioning, designing, acting, economically developing, propagating, promoting, and educating the mass markets that non-toxic, economially superior, cooperative approaches to human settlements, transportation, supply routes, energy consumption and generation, loving relationships, and quality locally grown natural food is attainable for a lower cost to each of us due to the cooperative approaches that the internet and networked communications now allows us. viva la ecocity!
+      All Nations Cafe International
   mobile: +01 720 297 6965
-  email: greg@ecocity.com
+  email: info@allnations.cafe
   address: P.O. Box 911 Nederland CO 80466
   contact_form_action: '#'
   google_analitycs_id: Your ID
-  copyright: 'Copyright &copy; 2020 Sustainable Community Development Hub, theme by [themefisher.com](themefisher.com)'
+  copyright: 'Copyright &copy; 2021 All Nations Cafe International'
   instafeed:
     enable: true
     access_token: >-
@@ -67,11 +65,9 @@ params:
     - icon: ti-facebook
       URL: '#'
     - icon: ti-twitter-alt
-      URL: 'https://twitter.com/ecocity'
-    - icon: ti-linkedin
-      URL: 'https://linkedin.com/in/ecocity'
+      URL: 'https://twitter.com/allnationscafe'
     - icon: ti-github
-      URL: 'https://github.com/ecocitycore'
+      URL: 'https://github.com/biomassives/allnationscafe-int-hugo-parsa-forestry'
 menu:
   main:
     - name: About
